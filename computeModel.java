@@ -82,3 +82,4 @@ public class computeModel {
 		System.out.println(test.generateNewText("Seek to explore new and exciting synergies"));
     }
 }
+//hello my
